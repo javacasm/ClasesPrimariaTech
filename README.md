@@ -2,11 +2,11 @@
 
 # Clases de robótica para primaria
 
-Trabajamos con niños de 8 años, pero con experiencia previa en programación y algo de robótica (Lego)
+Trabajamos con niño de 8 años, pero con experiencia previa en programación y de robótica (Lego)
 
 ## Introducción
 
-Les presentamos algunos componentes (servos, sensores siguelíneas y leds) que todos identifican y una placa de Arduino que reconocen incluso alguno indica los tipos de entradas/salidas
+Les presentamos algunos componentes (servos, sensores siguelíneas y leds) que identifican perféctamente y una placa de Arduino que reconoce incluso indica los tipos de entradas/salidas
 
 Hablamos de diseño 3D y de programación
 
@@ -24,6 +24,11 @@ Se muestran el concepto de variable, presentando los tipos y el ámbito (local/g
 * Semáforo sencillo
 * Semáforo con intermitencias
 
+![Semaforo sencillo](./images/Semaforo_senciilo_1.png)
+![Semaforo sencillo](./images/Semaforo_senciilo_2.png)
+
+[Proyecto semaforororororo amarillo](./proyectos/semaforororororo amarillo.json)
+
 ## Clase 2 y 3
 
 Introducimos el concepto de entrada analógica: potenciómetros como reguladores
@@ -39,6 +44,8 @@ Hacer cálculos mentales para ver la duración/retardo
 ![Semaforo_soft](./images/Semaforo_inteligente_soft.png)
 
 ![Semaforo_hard](./images/Semaforo_inteligente_hard.png)
+
+[Proyecto semaforo prueba---inteligente](./proyectos/semaforo prueba---inteligente.json)
 
 Vemos el problema de usar esperas
 
@@ -87,7 +94,7 @@ Vamos a hacer un viaje por la tierra, y usaremos 2 leds: uno azul para represent
 ![soft2](./images/Aleatorio_soft2.png)
 
 
-[Proyecto](./proyectos/montaña_prueba_1_-------------------------------------------------------------------------------------------------.json) (montaña_prueba_1_-------------------------------------------------------------------------------------------------)
+[Proyecto montaña_prueba_1_-------------------------------------------------------------------------------------------------](./proyectos/montaña_prueba_1_-------------------------------------------------------------------------------------------------.json)
 
 ## Clase 7
 
