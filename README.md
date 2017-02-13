@@ -52,6 +52,8 @@ Utilizamos sensores de proximidad Infrarrojos:
 * Sensor digital
 * Sensor analógico
 
+TODO: Imagen del sensor moviendose rápido
+
 ### Proyectos
 
 * Detección del suelo
@@ -62,6 +64,11 @@ Utilizamos sensores de proximidad Infrarrojos:
 Sensor analógico de proximidad infrarrojo :
 * Calibración de colores
 
+
+
+1ª versión del robot (sólo con componentes del kit)
+
+![robot0](./images/robot0.jpg)
 ## Clase 6
 
 Robot
@@ -77,8 +84,19 @@ Montamos un robot con materiales reciclados (cajas, clips y gomas elásticas)
 * Controlamos el robot a distancia con el potenciometro:
   * <100 Hacia atrás
   * >900 Hacia adelante
+  * En otro caso se para
 
 ¿Podemos añadir más opciones?
+
+![robot gomas](./images/robot_clip.jpg)
+
+![robot gomas](./images/robot_gomas.jpg)
+
+![robot_mando](./images/robot_mando.jpg)
+
+![robot](./images/robot1.jpg)
+
+[video](./images/robot.mp4)
 
 ## Clase 8
 
