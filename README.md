@@ -66,6 +66,10 @@ Sensor analógico de proximidad infrarrojo :
 
 Robot
 
+![robot hardware](./images/Robot1_hardware.png)
+
+![robot software básico](./images/robot1_programa.png)
+
 ## Clase 7
 
 Montamos un robot con materiales reciclados (cajas, clips y gomas elásticas)
