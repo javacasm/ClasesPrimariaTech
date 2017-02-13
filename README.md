@@ -71,13 +71,25 @@ Sensor analógico de proximidad infrarrojo :
 ![robot0](./images/robot0.jpg)
 ## Clase 6
 
+Objetivo: vamos a dibujar una paisaje con montañas, pero que no sea siempre igual. Para ellos usamores **números aleatorios**
+
+Vamos a hacer un viaje por la tierra, y usaremos 2 leds: uno azul para representar el mar y otro verde para la tierra. En el visor de gráficos veremos la forma de nuestra montaña
+
+![soft1](./images/Aleatorio_soft1.png)
+![soft2](./images/Aleatorio_soft2.png)
+
+
+[Proyecto](./proyectos/montaña_prueba_1_-------------------------------------------------------------------------------------------------.json) (montaña_prueba_1_-------------------------------------------------------------------------------------------------)
+
+## Clase 7
+
+
 Robot
 
 ![robot hardware](./images/Robot1_hardware.png)
 
 ![robot software básico](./images/robot1_programa.png)
 
-## Clase 7
 
 Montamos un robot con materiales reciclados (cajas, clips y gomas elásticas)
 
@@ -100,6 +112,30 @@ Montamos un robot con materiales reciclados (cajas, clips y gomas elásticas)
 
 ## Clase 8
 
-* Robot que no se cae de la mesa
+Hacer un programa reutilizable con funciones
 
-Sensores
+[Proyecto](./proyectos/FuNcIoNeS############################################################################.json) (FuNcIoNeS############################################################################)
+
+![Funciones](./images/Funciones.png)
+
+Terminado el montaje del robot
+
+![RobotFinal](./images/RobotFinal.jpg)
+
+## Clase 9
+
+* Objetivo: Robot que no se cae de la mesa
+
+¿Cómo funcionan los Sensores IR?
+
+Ejemplo muy sencillo para ver los valores:
+
+![Test](./images/Test_Sensor_IR.png)
+
+![Test soft](./images/Test_Sensor_IR_soft.png)
+
+Resultado: El sensor da 1 cuando tiene suelo
+
+Extra: ¿Cómo funcionan los Infrarrojos de un mando a distancia? ¿Qué envían? ¿Cómo no se mezclan la señal de los mandos?
+
+## Reto: Siguelíneas
