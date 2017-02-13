@@ -24,23 +24,26 @@ Se muestran el concepto de variable, presentando los tipos y el ámbito (local/g
 * Semáforo sencillo
 * Semáforo con intermitencias
 
-## Clase 2
+## Clase 2 y 3
 
-Introducimos el concepto de entrada analógica
+Introducimos el concepto de entrada analógica: potenciómetros como reguladores
 
 Problemas por no haber etiquetado bien las entradas/cables
 
-Hacen cálculos mentales para ver la duración/retardo
+Hacer cálculos mentales para ver la duración/retardo
 
 ### Proyectos
 * Semáforo con duración regulada por potenciómetro
 * Semáforo con parpadeos regulados por potenciómetro
 
-## Clase 3
+![Semaforo_soft](./images/Semaforo_inteligente_soft.png)
+
+![Semaforo_hard](./images/Semaforo_inteligente_hard.png)
 
 Vemos el problema de usar esperas
 
-Presentamos el sensor siguelíneas y los mueve muy rápido para ver la zona en la que detecta el borde de la mesa
+Presentamos el sensor siguelíneas (Infrarrojos)
+
 
 ### Proyectos
 
@@ -52,7 +55,14 @@ Utilizamos sensores de proximidad Infrarrojos:
 * Sensor digital
 * Sensor analógico
 
-TODO: Imagen del sensor moviendose rápido
+¿Qué ocurre si movemos junto al borde de la mesa un sensor IR?
+
+[Solución](./images/MoviendoIRRapido.mp4)
+
+
+¿Se pueden ver la luz infrarroja de alguna manera? Prueba a verla a través de la cámara de tu móvil....
+
+![ir Remote](https://cdn.instructables.com/F2F/2QO4/HQQLLRS2/F2F2QO4HQQLLRS2.MEDIUM.gif)
 
 ### Proyectos
 
@@ -63,8 +73,6 @@ TODO: Imagen del sensor moviendose rápido
 
 Sensor analógico de proximidad infrarrojo :
 * Calibración de colores
-
-
 
 1ª versión del robot (sólo con componentes del kit)
 
