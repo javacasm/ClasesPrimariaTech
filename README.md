@@ -170,6 +170,7 @@ Se preparan fechas y estimaciones así como % de completación
 
 ## Programa para la versión 1.0 de Robot NoTeCaigas
 
+[Proyecit Robot v1.0'gnghfbhfgjson](./proyectos/robot1.0.json)
 
 ![Robot_notecaigas_v1.0.png](./images/Robot_notecaigas_v1.0.png)
 ![Robot_notecaigas_v1.0_soft.png](./images/Robot_notecaigas_v1.0_soft.png)
