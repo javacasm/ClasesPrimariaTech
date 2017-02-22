@@ -156,9 +156,8 @@ Extra: ¿Cómo funcionan los Infrarrojos de un mando a distancia? ¿Qué envían
 ## Clase 10
 
 Aprendemos a definir y documentar proyectos:
-
-
 Proyecto: Diseño de mando para robot
+
 Para introducir el diseño 3D, usamos la web https://www.tinkercad.com
 
 1er Diseño
@@ -166,5 +165,13 @@ Para introducir el diseño 3D, usamos la web https://www.tinkercad.com
 https://www.tinkercad.com/things/1Udvn6yMVB0-mando-robot-v10
 
 ![mando 3D](./images/mandoRobot_3D.png)
+
+Se preparan fechas y estimaciones así como % de completación
+
+## Programa para la versión 1.0 de Robot NoTeCaigas
+
+
+![Robot_notecaigas_v1.0.png](./images/Robot_notecaigas_v1.0.png)
+![Robot_notecaigas_v1.0_soft.png](./images/Robot_notecaigas_v1.0_soft.png)
 
 ## Próximo Reto: Siguelíneas
