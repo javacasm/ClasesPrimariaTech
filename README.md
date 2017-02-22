@@ -153,4 +153,18 @@ Resultado: El sensor da 1 cuando tiene suelo
 
 Extra: ¿Cómo funcionan los Infrarrojos de un mando a distancia? ¿Qué envían? ¿Cómo no se mezclan la señal de los mandos?
 
-## Reto: Siguelíneas
+## Clase 10
+
+Aprendemos a definir y documentar proyectos:
+
+
+Proyecto: Diseño de mando para robot
+Para introducir el diseño 3D, usamos la web https://www.tinkercad.com
+
+1er Diseño
+
+https://www.tinkercad.com/things/1Udvn6yMVB0-mando-robot-v10
+
+![mando 3D](./images/mandoRobot_3D.png)
+
+## Próximo Reto: Siguelíneas
