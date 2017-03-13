@@ -176,3 +176,22 @@ Se preparan fechas y estimaciones así como % de completación
 ![Robot_notecaigas_v1.0_soft.png](./images/Robot_notecaigas_v1.0_soft.png)
 
 ## Próximo Reto: Siguelíneas
+
+## Clase 11
+
+[Kit de 24 sensores](http://tienda.bricogeek.com/kits-arduino/830-octopus-brick-kit-de-24-sensores-para-arduino.html)
+
+![kit 24](http://cdn-tienda.bricogeek.com/3184-thickbox_default/octopus-brick-kit-de-24-sensores-para-arduino.jpg)
+
+Identificamos los distintos sensores
+
+Empezamos clasificando sensores digitales y analógicas
+
+
+Definimos proyecto "Termostato":
+* Sensor de temperatura
+* Sensor de presencia
+* Motor para enfríar
+* ¿Relé para calefacción?
+
+## Clase 12
