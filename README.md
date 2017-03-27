@@ -194,4 +194,15 @@ Definimos proyecto "Termostato":
 * Motor para enfríar
 * ¿Relé para calefacción?
 
-## Clase 12
+## Clase 12 y Clase 13
+
+Programando con Arduino:
+* Funciones
+* Variables
+* Tipos de Variables: int, float y String
+  * ¿Por qué hay diferentes tipos?
+  * Valores máximos y mínimos
+  * Tipos más detallados: byte, int, long
+* Envio de datos al PC
+
+##
