@@ -196,7 +196,8 @@ Definimos proyecto "Termostato":
 
 ## Clase 12 y Clase 13
 
-Programando con Arduino:
+Programando con el IDE de Arduino:
+* Comentarios
 * Funciones
 * Variables
 * Tipos de Variables: int, float y String
@@ -205,4 +206,19 @@ Programando con Arduino:
   * Tipos más detallados: byte, int, long
 * Envio de datos al PC
 
-##
+* Trabajo con números en formato binario: B111001
+* Potencias de 2: 1,2,4,8,16,32,64,128,256,....1024
+
+## Clase 14
+
+Display de 7 segmentos
+
+* Descripción del funcionamiento
+* Nombre de los segmentos
+![7 segmentos](./images/7_segment_display_pin_outs.png)
+* Formas de dibujar caracteres y números
+![caracteres 7 segmentos](./images/ caracteres_7-segmentos.jpg)
+* Conexión con Arduino
+* Chip que los controla  TM1637
+* Buscamos librería para TM1637: TM1637Display
+* Modificamos el ejemplo
