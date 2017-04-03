@@ -217,7 +217,9 @@ Display de 7 segmentos
 * Nombre de los segmentos
 ![7 segmentos](./images/7_segment_display_pin_outs.png)
 * Formas de dibujar caracteres y números
+
 ![caracteres 7 segmentos](./images/ caracteres_7-segmentos.jpg)
+
 * Conexión con Arduino
 * Chip que los controla  TM1637
 * Buscamos librería para TM1637: TM1637Display
