@@ -224,3 +224,10 @@ Display de 7 segmentos
 * Chip que los controla  TM1637
 * Buscamos librería para TM1637: TM1637Display
 * Modificamos el ejemplo
+        A
+       -----
+ F  |   G   | B
+       -----
+ E |        | C
+       -----    .
+         D
