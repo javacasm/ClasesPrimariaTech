@@ -231,3 +231,20 @@ Display de 7 segmentos
  E |        | C
        -----    .
          D
+
+## Programación con código
+* Escritura de código
+* Números binarios
+  * Representación
+  * Conversión
+* Constantes #define
+* Operaciones matemáticas
+* Cálculos con decimales
+
+## [Diagramas de flujo](https://es.wikipedia.org/wiki/Diagrama_de_flujo)
+* Algoritmos
+* Programas
+
+![Diagrama de flujo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DiagramaFlujoLampara.svg/440px-DiagramaFlujoLampara.svg.png)
+
+![Diagrama de flujo a mano](./images/Organigramas.jpg)
